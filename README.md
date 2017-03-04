@@ -2,4 +2,4 @@
 ## try
 ### try
 **funny thing**
-[really funny](www.baidu.com)
+[really funny](https://www.baidu.com/)
