@@ -4,5 +4,7 @@
 **funny thing**
 [really funny](https://www.baidu.com/)
 ```c
-for()
+int double
 ```
+
+*is'n it*
